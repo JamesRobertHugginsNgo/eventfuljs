@@ -1,2 +1,3 @@
-# eventfuljs
+# Eventful JS
+
 Eventful JavaScript
